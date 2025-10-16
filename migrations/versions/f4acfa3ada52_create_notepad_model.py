@@ -1,7 +1,7 @@
 """create_notepad_model
 
 Revision ID: f4acfa3ada52
-Revises: d3649b81b450
+Revises:
 Create Date: 2025-09-23 12:07:04.102276
 
 """
@@ -11,7 +11,7 @@ import sqlalchemy as sa
 
 # revision identifiers, used by Alembic.
 revision = 'f4acfa3ada52'
-down_revision = 'd3649b81b450'
+down_revision = '001'
 branch_labels = None
 depends_on = None
 
